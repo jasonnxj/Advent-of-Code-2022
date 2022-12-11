@@ -1,5 +1,5 @@
 # Advent-of-Code-2022
 
-Advent of Code is an annual 25-day daily coding challenge, from December 1 to Christmas day.
+This is an Advent calendar of small programming puzzles.
 
-I am using Python.
+I am using Python to solve them.
